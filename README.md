@@ -8,9 +8,6 @@ PetMatch is a web-based platform designed to help people find adoptable pets nea
 
 [Live Demo Link](#) – *Add your deployed site URL here once it's live*
 
-## 📸 Preview
-
-![PetMatch Screenshot](./images/dog-profile.jpg)
 
 ## 🚀 Features
 
